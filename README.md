@@ -95,7 +95,7 @@ curl http://example.com
 
 | فیلد | مقدار | توضیح |
 |------|-------|-------|
-| Source Port | 3695 | پورت Ephemeral — سیستم‌عامل به صورت تصادفی تخصیص داده |
+| Source Port | 55003 | پورت Ephemeral — سیستم‌عامل به صورت تصادفی تخصیص داده |
 | Destination Port | 80 | پورت ثابت HTTP |
 | Protocol | TCP | پروتکل انتقال مطمئن و اتصال‌محور |
 
@@ -107,8 +107,8 @@ curl http://example.com
 
 | فیلد | مقدار | توضیح |
 |------|-------|-------|
-| Source IP | 192.168.1.6 | آدرس IP سیستم |
-| Destination IP | 188.114.98.0 | آدرس IP سرور example.com |
+| Source IP | 192.168.1.2 | آدرس IP سیستم |
+| Destination IP | 104.20.23.154 | آدرس IP سرور example.com |
 
 ![لایه ۳ - Network](Phase2/Layer3_Network.png)
 
