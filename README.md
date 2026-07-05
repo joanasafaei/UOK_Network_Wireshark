@@ -174,7 +174,7 @@ curl https://cloudflare.com
 |------|-------|
 | Handshake Type | Client Hello (1) |
 | TLS Version | TLS 1.2 (0x0303) |
-| Cipher Suites | 21 الگوریتم پیشنهادی |
+| Cipher Suites | 20 الگوریتم پیشنهادی |
 
 ![Client Hello](Phase4/Wireshark/Client_Hello.png)
 
