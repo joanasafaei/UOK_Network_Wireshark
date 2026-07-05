@@ -183,7 +183,7 @@ curl https://cloudflare.com
 | فیلد | مقدار |
 |------|-------|
 | TLS Version | TLS 1.2 |
-| Cipher Suite انتخاب‌شده | TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256 |
+| Cipher Suite انتخاب‌شده | TLS_AES_256_GCM_SHA384 (0x1302) |
 
 ![Server Hello](Phase4/Wireshark/Server_Hello.png)
 
